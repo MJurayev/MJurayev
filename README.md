@@ -1,7 +1,4 @@
 ### Hi there 👋
-
-<!--
-**MJurayev/MJurayev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [MJurayev gihub stats](https://github-readme-stats.vercel.app/api?username=MJurayev&show_icons=true&theme=default)
 Here are some ideas to get you started:
 
