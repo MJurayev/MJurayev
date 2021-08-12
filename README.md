@@ -1,6 +1,13 @@
 
+<h1 align="center"> 🧔  Hi there👋. I'm FullStack dev. & DevOps engineer <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+ </h1>
+<div align="center">
+  <a href="https://www.instagram.com/juraev__mansur/" target="_blank"><img height="30" src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" /></a>
+   <a href="https://www.facebook.com/mss0105/" target="_blank"><img height="30" src="https://camo.githubusercontent.com/8f245234577766478eaf3ee72b0615e99bb9ef3eaa56e1c37f75692811181d5c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f66616365626f6f6b2e737667" /></a>
+   <a href="https://t.me/Jurayev_Mansur" target="_blank"><img height="30" src="https://camo.githubusercontent.com/f4b401dd7cd9b7840fd31acafd49e151a80e4c9600bf219934461b96dd98e013/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667" /></a>
+</div>
 
- Hi there👋. I'm FullStack dev. & DevOps engineer
+
 -----------------------------------------------------
 [![GitHub followers](https://img.shields.io/github/followers/MJurayev?color=%234518f5&logo=github&logoColor=%23403d3d&style=for-the-badge)](https://github.com/users/follow?target=MJurayev)
 [![Email](https://img.shields.io/badge/Email-jurayevmansurbek667%40gmail.com-234518f?color=%234518f5&logo=gmail&logoColor=%23403d3d&style=for-the-badge)](mailto:jurayevmansurbek667@gmail.com)
