@@ -1,16 +1,16 @@
 
 
-### Hi there👋
+ Hi there👋. I'm FullStack dev. & DevOps engineer
 -----------------------------------------------------
 [![GitHub followers](https://img.shields.io/github/followers/MJurayev?color=%234518f5&logo=github&logoColor=%23403d3d&style=for-the-badge)](https://github.com/users/follow?target=MJurayev)
 [![Email](https://img.shields.io/badge/Email-jurayevmansurbek667%40gmail.com-234518f?color=%234518f5&logo=gmail&logoColor=%23403d3d&style=for-the-badge)](mailto:jurayevmansurbek667@gmail.com)
 ---------------------------------------------------------
-<h1>My Github statistics</h1>
+<h2>My Github statistics</h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MJurayev&theme=algolia)](https://github.com/MJurayev) [![MJurayev gihub stats](https://github-readme-stats.vercel.app/api?username=MJurayev&show_icons=true&theme=algolia)](https://github.com/MJurayev)
 
 -----------------------------------------------------------------
-<h1>Skills</h1>
+<h2>Skills</h2>
   <h4>Used programming language </h4>
   
   [![Skills](https://img.shields.io/badge/Python-40%25-white?color=%234518f5&logo=python&logoColor=%2390ad3d&style=for-the-badge)](10%)
