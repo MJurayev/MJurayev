@@ -10,6 +10,14 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MJurayev&theme=algolia)](https://github.com/MJurayev)
 
+
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SelfhostedPro&repo=Yacht&theme=algolia)](https://github.com/MJurayev/Yacht)
+
+[![Docker Hub Pulls](https://img.shields.io/docker/pulls/selfhostedpro/yacht?color=%234518f5&label=Docker%20Pulls&logo=docker&logoColor=%23403d3d&style=for-the-badge)](https://hub.docker.com/r/selfhostedpro/yacht)
+[![Docker Image Size](https://img.shields.io/docker/image-size/selfhostedpro/yacht/vue?color=%234518f5&label=Image%20Size&logo=docker&logoColor=%23403d3d&style=for-the-badge)](https://hub.docker.com/r/selfhostedpro/yacht)
+[![Layers](https://img.shields.io/microbadger/layers/selfhostedpro/yacht?color=%234518f5&label=Layers&logo=docker&logoColor=%23403d3d&style=for-the-badge)](https://hub.docker.com/r/selfhostedpro/yacht)
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
