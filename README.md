@@ -22,7 +22,7 @@
   [![Skills](https://img.shields.io/badge/MongoDb-40%25-white?color=%234518f5&logo=mongodb&logoColor=%2390ad3d&style=for-the-badge)](10%)
   [![Skills](https://img.shields.io/badge/Mysql-80%25-white?color=%234518f5&logo=mysql&logoColor=%2390ad3d&style=for-the-badge)](10%)
 
-  <h3>DevOps engineering and Sysadmin</h3>
+  <h4>DevOps engineering and Sysadmin</h4>
   
   [![Skills](https://img.shields.io/badge/Nginx-40%25-white?color=%234518f5&logo=nginx&logoColor=%2390ad3d&style=for-the-badge)](10%)
   [![Skills](https://img.shields.io/badge/Apache-80%25-white?color=%234518f5&logo=apache&logoColor=%2390ad3d&style=for-the-badge)](10%)
@@ -30,7 +30,6 @@
   [![Skills](https://img.shields.io/badge/Kubernetes-80%25-white?color=%234518f5&logo=kubernetes&logoColor=%2390ad3d&style=for-the-badge)](10%)
   [![Skills](https://img.shields.io/badge/Github%2Cgitlab%20actions-80%25-white?color=%234518f5&logo=git&logoColor=%2390ad3d&style=for-the-badge)](10%)
   [![Skills](https://img.shields.io/badge/CI%2FCD%20piplines-80%25-white?color=%234518f5&logo=circle&logoColor=%2390ad3d&style=for-the-badge)](10%)
-  <h3>DevOps engineering and Sysadmin</h3>
   
   <h3>Additional</h3>
   
