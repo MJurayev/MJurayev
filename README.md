@@ -1,5 +1,5 @@
-### Hi there 👋
-![MJurayev gihub stats](https://github-readme-stats.vercel.app/api?username=MJurayev&show_icons=true&theme=default)
+### Hi there, I'm Jurayev Mansur👋
+![MJurayev gihub stats](https://github-readme-stats.vercel.app/api?username=MJurayev&show_icons=true&theme=algolia)
 
 
 [![GitHub followers](https://img.shields.io/github/followers/MJurayev?color=%234518f5&logo=github&logoColor=%23403d3d&style=for-the-badge)](https://github.com/users/follow?target=MJurayev)
