@@ -1,5 +1,5 @@
 ### Hi there 👋
-[MJurayev gihub stats](https://github-readme-stats.vercel.app/api?username=MJurayev&show_icons=true&theme=default)
+![MJurayev gihub stats](https://github-readme-stats.vercel.app/api?username=MJurayev&show_icons=true&theme=default)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
