@@ -1,7 +1,7 @@
 ### Hi there👋
-
+<p>
 ![MJurayev gihub stats](https://github-readme-stats.vercel.app/api?username=MJurayev&show_icons=true&theme=algolia) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MJurayev&theme=algolia)](https://github.com/MJurayev)
-
+</p>
 
 ![](https://img.shields.io/github/visitors/MJurayev?style=for-the-badge&logo=appveyor) [![GitHub followers](https://img.shields.io/github/followers/MJurayev?color=%234518f5&logo=github&logoColor=%23403d3d&style=for-the-badge)](https://github.com/users/follow?target=MJurayev)
 [![Email](https://img.shields.io/badge/Email-jurayevmansurbek667%40gmail.com-234518f?color=%234518f5&logo=gmail&logoColor=%23403d3d&style=for-the-badge)](mailto:jurayevmansurbek667@gmail.com)
